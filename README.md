@@ -89,7 +89,8 @@ D---E---F---A'---B'---C' test-my-feature-2
 
 ## revert练习
 
-请在`master`分支上revert `9dfb38fc7f9a33299801c695092de3e2e8b67607` 这个提交。
+- 请在`master`分支上revert `9dfb38fc7f9a33299801c695092de3e2e8b67607` 这个提交。
+- 然后再次将你刚刚revert的提交revert掉。
 
 ## bisect练习
 
